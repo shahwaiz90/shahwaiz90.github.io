@@ -1,4 +1,1 @@
----
-layout: none
-permalink: .well-known/assetlinks.json
----
+include: [".well-known", ".nojekyll"]
